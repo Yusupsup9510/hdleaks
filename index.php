@@ -31,7 +31,7 @@ $img = 'https://th.bing.com/th/id/R.53e479f1a86be5db40bed48b18adb05e?rik=ADqPWiX
 				<li><a href="/register.php" data-ajax="false"><i class="fa fa-home" title="Home"></i> Homepage</a></li>
 				
 				
-				<li><a href="/register.php" data-ajax="false"><i class="fa fa-user" title="Free Sign Up"></i> Sign Up</a></li>
+				<li><a href="/register.php" data-ajax="false"><i class="fa fa-user" title="Other Leaks"></i>Other Leaks</a></li>
 			</li>
 		</ul>
 	</div>
