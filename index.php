@@ -7,8 +7,8 @@ $img = 'https://th.bing.com/th/id/R.53e479f1a86be5db40bed48b18adb05e?rik=ADqPWiX
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>News Live Stream</title>
-	<meta name="description" property="og:description" content="News TV HD Live Stream"/>
-	<meta name="keywords" content="News TV HD Live Stream"/>
+	<meta name="description" property="og:description" content="Watch free HD Leaks Online"/>
+	<meta name="keywords" content="Watch free HD Leaks Online"/>
 	<link rel="shortcut icon" href="http://www.onlinedynasty.net/ndl2.0/images/News NETWORKscenter.gif">
 	<link rel="stylesheet" id="watch-oncas---pane" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" type="text/css" media="all">
 	<link rel="shortcut icon" href="http://streaming-concert.com/wp-content/News/favicon.ico">
@@ -43,7 +43,7 @@ $img = 'https://th.bing.com/th/id/R.53e479f1a86be5db40bed48b18adb05e?rik=ADqPWiX
 						<a id="mob-bars" href="#myPanel"><i class="fa fa-bars"></i></a>
 						<h2 id="site-title">
 							<a href="/">
-								<i class="fa fa-youtube-play"></i>BREAKING NEWS 24/7</a>
+								<i class="fa fa-youtube-play"></i>Watch free HD Leaks Online</a>
 							</h2>
 							
 							<a id="mob-src" href="#search"></i></a>
